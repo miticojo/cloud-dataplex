@@ -1,0 +1,2 @@
+# Ignore the Databricks JDBC driver
+DatabricksJDBC42.jar
